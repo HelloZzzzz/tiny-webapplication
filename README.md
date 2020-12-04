@@ -9,5 +9,5 @@
 
 
 ### 使用端
-    tiny-webapplication使用tomcat7插件运行web项目
+    在tiny-application使用maven中的tomcat7插件运行web项目
 
